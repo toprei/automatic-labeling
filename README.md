@@ -1,4 +1,4 @@
-#Automatic Labeling of depth images
+# Automatic Labeling of depth images
 
 Setting and information how to use can be found in the file 
 
